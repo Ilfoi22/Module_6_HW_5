@@ -1,8 +1,8 @@
 # Module_6_HW_5
 
-**UML Diagram 
+### UML Diagram
 
-<img src="D:\Projects\Module_6_HW_5\UML oAuth 2.0.png"/>
+![UML oAuth 2 0](https://github.com/Ilfoi22/Module_6_HW_5/assets/119940082/83331c99-0bf2-4eab-b831-a586390f002a)
 
 1. User login in Client;
 2. Client redirect to Authorization Server;
